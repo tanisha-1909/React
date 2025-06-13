@@ -1,7 +1,16 @@
 import "./App.css"
+
+// importing title from file with same name
+import Title from "./Title.jsx"
+
 function App() {
   return (
-    <h1>Hello world</h1>
+    // <div className="mainbox">
+    <div id="mainbox">
+        <h1>Hello world</h1>
+        {/* to render: */}
+        <Title/>  
+    </div>
   )
 }
 

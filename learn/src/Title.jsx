@@ -1,5 +1,10 @@
+import "./Para.css"
+
 function Title(){
-  return <h1>My name is Tanisha</h1>
+    // TO EVALUATE JS EXPRESSION
+  return <div className="Para">
+    <p>2*2 = {2*2}</p>
+  </div>
 }
 
 export default Title;

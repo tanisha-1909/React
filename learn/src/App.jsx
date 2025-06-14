@@ -1,6 +1,7 @@
 import AmazonCard from "./4.1amazoncard"
 import "./App.css"
-
+import Button  from "./4.5Button"
+import Form from "./4.6Form"
 // importing title from file with same name
 // import Title from "./1.1Title.jsx"
 
@@ -27,6 +28,8 @@ import "./App.css"
 function App(){
   return(
     <div id="mainbox" >
+      <Form/>
+      <Button/>
       <h1>Blockbuster deals !!!</h1>
        <AmazonCard/>
     </div>

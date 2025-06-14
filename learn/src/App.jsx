@@ -2,7 +2,7 @@ import "./App.css"
 
 // importing title from file with same name
 import Title from "./Title.jsx"
-import Product from "./Product.jsx";
+
 import ProductTab from "./Producttab.jsx";
 // function App() {
 //   return (

@@ -1,4 +1,4 @@
-import "./Product.css"
+import "./2.3Product.css"
 
 // taking input of props
 // function Product({title,price,features,features2}){

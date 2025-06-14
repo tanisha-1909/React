@@ -1,4 +1,4 @@
-import "./Para.css"
+import "./1.1Para.css"
 
 function Title(){
     // TO EVALUATE JS EXPRESSION

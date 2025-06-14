@@ -1,4 +1,4 @@
-import Product from "./Product.jsx";
+import Product from "./2.2Product.jsx";
 
 function ProductTab (){
     let features_array=["hi-tech","durable","fast"];

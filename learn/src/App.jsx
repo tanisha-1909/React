@@ -1,9 +1,9 @@
 import "./App.css"
 
 // importing title from file with same name
-import Title from "./Title.jsx"
+import Title from "./1.1Title.jsx"
 
-import ProductTab from "./Producttab.jsx";
+import ProductTab from "./2.1ProductTab.jsx"
 // function App() {
 //   return (
 //     // <div className="mainbox">

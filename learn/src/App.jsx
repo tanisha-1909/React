@@ -4,6 +4,7 @@ import "./App.css"
 import Title from "./1.1Title.jsx"
 
 import ProductTab from "./2.1ProductTab.jsx"
+import MsgBox from "./3.1MsgBox.jsx";
 // function App() {
 //   return (
 //     // <div className="mainbox">
@@ -22,6 +23,7 @@ function App() {
     <>
         <h1>Hello world</h1>
         {/* to render: */}
+        <MsgBox userName="Tanisha" textColor="white"/>
         <Title/>  
         <ProductTab/>
     </>

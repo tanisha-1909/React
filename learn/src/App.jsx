@@ -2,7 +2,8 @@ import "./App.css"
 
 // importing title from file with same name
 import Title from "./Title.jsx"
-
+import Product from "./Product.jsx";
+import ProductTab from "./Producttab.jsx";
 // function App() {
 //   return (
 //     // <div className="mainbox">
@@ -22,6 +23,7 @@ function App() {
         <h1>Hello world</h1>
         {/* to render: */}
         <Title/>  
+        <ProductTab/>
     </>
   );
 }

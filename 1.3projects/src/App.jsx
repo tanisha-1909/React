@@ -4,6 +4,8 @@ import './App.css'
 
 // import Lottery from './1.3Lottery.jsx'
 import Form from './2.1Form'
+
+import CommentsForm from './2.2CommentsForm'
 function App() {
   return (
     <>
@@ -11,7 +13,8 @@ function App() {
       <hr></hr>
       <LudoBoard/> */}
       {/* <Lottery/> */}
-      <Form/>
+      {/* <Form/> */}
+      <CommentsForm/>
     </>
   )
 }

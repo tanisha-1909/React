@@ -13,3 +13,5 @@ If you are developing a production application, we recommend using TypeScript wi
 
 
 component,props,state,event
+
+formik- react library for validation in forms

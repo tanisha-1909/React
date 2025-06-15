@@ -22,3 +22,7 @@ export default function Lottery (){
         </div>
     )
 }
+
+
+// changes- make the lottery of n digit number
+// lifting state up- when we want to share a state 
